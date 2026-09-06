@@ -115,14 +115,27 @@ Full platform for running eFootball tournaments — brackets, players, organizer
 ## 📊 Season Stats
 
 <!--
-  ONCE YOUR OWN INSTANCE IS DEPLOYED:
-  Find-and-replace   github-readme-stats.vercel.app
-  with              your-instance-name.vercel.app
-  It appears twice, both in the block directly below. Nothing else changes.
+  NOTE: the two github-readme-stats cards are commented out below because the
+  public instance (github-readme-stats.vercel.app) is paused by its owner.
+  Once you deploy your own instance, delete the summary-cards row directly
+  under this comment, uncomment the block after it, and replace
+  github-readme-stats.vercel.app with your-instance-name.vercel.app
 -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishalDhariwal&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishalDhariwal&theme=github_dark" />
+</p>
+
+<!--
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VishalDhariwal&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400&title_color=38EF7D&icon_color=38EF7D&text_color=c9d1d9&bg_color=0d1117" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalDhariwal&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&title_color=38EF7D&text_color=c9d1d9&bg_color=0d1117" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishalDhariwal&theme=github_dark" />
 </p>
 
 <p align="center">

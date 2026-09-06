@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Vishal%20Dhariwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Multimodal%20%7C%20Bennett%20University&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Vishal%20Dhariwal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20ML/DL%20%C2%B7%20RAG%20%C2%B7%20Backend%20%7C%20Bennett%20University&descAlignY=55&descSize=18" />
 </div>
 
 <!-- Commit kickabout.svg to an /assets folder in this same repo for the path below to resolve. -->

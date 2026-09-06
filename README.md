@@ -43,9 +43,9 @@ Shipping end-to-end AI products: system design, backend, LLM integration, testin
 ## 🧤 The Formation — 4-3-3
 
                                         
-                                                            🥅
-                                                     Docker  ·  Git  ·  Azure
-                                                      ── the last line back ──
+                                                          🥅
+                                                   Docker  ·  Git  ·  Azure
+                                                    ── the last line back ──
                                 
                                     Python        FastAPI       PostgreSQL       JWT / RBAC
                                     ───────── back four: nothing gets through here ─────────

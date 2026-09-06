@@ -38,28 +38,24 @@ I care about **evaluation-driven design**: retrieval that actually retrieves, pr
 
 Shipping end-to-end AI products: system design, backend, LLM integration, testing, production deploy. Built and tested production solutions on **LLMs, RAG, FastAPI, PostgreSQL and React**, working across engineering teams.
 
-**Open Source** — [Sugar AI](https://github.com/Sugarlabs) *(merged PR)*
-
-Integrated a **Cross-Encoder neural reranking pipeline** to push retrieval accuracy up, taking a deliberate ~3s latency hit for the gain. Also refactored the backend off deprecated event handlers onto clean lifespan context managers.
-
 ---
 
 ## 🧤 The Formation — 4-3-3
 
-```
-                            🥅
-                     Docker  ·  Git  ·  Azure
-                      ── the last line back ──
-
-    Python        FastAPI       PostgreSQL       JWT / RBAC
-    ───────── back four: nothing gets through here ─────────
-
-         LangChain      LangGraph      RAG + Chroma
-         ────────── midfield: the engine room ──────────
-
-       React         Tailwind         Streamlit
-       ───── front three: what the crowd sees ─────
-```
+                                        ```
+                                                                    🥅
+                                                             Docker  ·  Git  ·  Azure
+                                                              ── the last line back ──
+                                        
+                                            Python        FastAPI       PostgreSQL       JWT / RBAC
+                                            ───────── back four: nothing gets through here ─────────
+                                        
+                                                 LangChain      LangGraph      RAG + Chroma
+                                                 ────────── midfield: the engine room ──────────
+                                        
+                                               React         Tailwind         Streamlit
+                                               ───── front three: what the crowd sees ─────
+                                        ```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,js,html,css" /><br/>
@@ -87,18 +83,18 @@ Integrated a **Cross-Encoder neural reranking pipeline** to push retrieval accur
 ### 🥇 [StudySync AI](https://github.com/VishalDhariwal/ExamSyncAi) — *the playmaker*
 Agentic RAG system that generates syllabus-aligned exams from academic material and previous-year papers, then grades them. Retrieval, reasoning and generation are separated into modular stages so the outputs stay deterministic. A multi-step evaluation agent handles grading, feedback and weakness analysis.
 <br/>`Groq` `LangChain` `LangGraph` `RAG` `Chroma` `Firebase` `Streamlit`
-
-### 🥈 [Fake News Multimodal Detection](https://github.com/VishalDhariwal/Fake-news-prediction-app) — *the enforcer*
-**93.7% accuracy** on image–text mismatch detection across **700K+ cleaned samples**. CLIP ViT-B/32 for joint image-text representation, XGBoost on top, augmentation pipeline for generalisation. Catches the ones that dive.
-<br/>`CLIP ViT-B/32` `XGBoost` `NLP` `FastAPI` `React` `Vercel`
+ 
+### 🥈 [Cartpilot - Merchant Growth Agent](https://github.com/VishalDhariwal/CartPilot) — *the enforcer*
+Autonomous AI Shopping Agents with Deterministic Guardrails, 4-Tier Hybrid Recommendations, Cryptographic Mandate Chains, and Merchant Autonomy Levers.
+<br/>`FastAPI` `SQLAlchemy` `SQL` `JWT` `RBAC`
 
 ### 🥉 [Machine Failure Prediction](https://github.com/VishalDhariwal/Machine-Failure-Prediction-) — *the sweeper*
 Predictive maintenance system — failure classification, Isolation Forest anomaly detection and rule-based risk scoring, with real-time predictions plus CSV batch inference through a React dashboard.
 <br/>`FastAPI` `Scikit-Learn` `Isolation Forest` `React` `Tailwind`
 
-### 🏅 [Finance Dashboard Backend](https://github.com/VishalDhariwal/backend_finance) — *holding midfield*
-Role-based finance backend on a layered API → Service → Repository architecture. JWT auth, RBAC, and optimised SQL aggregations for income, expense and trend insights.
-<br/>`FastAPI` `SQLAlchemy` `SQL` `JWT` `RBAC`
+### 🏅[Fake News Multimodal Detection](https://github.com/VishalDhariwal/Fake-news-prediction-app) — *holding midfield*
+**93.7% accuracy** on image–text mismatch detection across **700K+ cleaned samples**. CLIP ViT-B/32 for joint image-text representation, XGBoost on top, augmentation pipeline for generalisation. Catches the ones that dive.
+<br/>`CLIP ViT-B/32` `XGBoost` `NLP` `FastAPI` `React` `Vercel`
 
 ### ⚽ [eFootball Arena](https://github.com/VishalDhariwal/eFootball_Arena) — *home fixture*
 Full platform for running eFootball tournaments — brackets, players, organizers, the lot. Football, but it's also the codebase.
@@ -150,19 +146,23 @@ Full platform for running eFootball tournaments — brackets, players, organizer
 
 ## 🏆 Trophy Cabinet
 
-**The literal ones:**
+### ⚽ Real-World Achievements
 
-| Honour | Detail |
+| 🏅 Honour | 📜 Detail |
 |---|---|
 | ⚽ **Subroto Cup** | Captain — Gurukul Kurukshetra football team, national tournament |
-| 🥇 **3x State Champion** | Haryana U-14 & U-17, consecutive titles |
-| 🎖️ **NCC 'A' & 'B' Certificates** | National Cadet Corps — leadership and discipline |
+| 🥇 **3× State Champion** | Haryana U-14 & U-17 — consecutive titles |
+| 🎖️ **NCC 'A' & 'B' Certificates** | National Cadet Corps — leadership, discipline & teamwork |
 
-**The GitHub ones:**
+### 💻 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalDhariwal&theme=matrix&no-frame=true&column=7&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=VishalDhariwal&theme=matrix&no-frame=true&no-bg=true&column=7"
+    alt="Vishal Dhariwal's GitHub Trophies"
+  />
 </p>
+
 
 ---
 

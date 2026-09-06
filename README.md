@@ -42,20 +42,20 @@ Shipping end-to-end AI products: system design, backend, LLM integration, testin
 
 ## 🧤 The Formation — 4-3-3
 
-                                        ```
-                                                                    🥅
-                                                             Docker  ·  Git  ·  Azure
-                                                              ── the last line back ──
                                         
-                                            Python        FastAPI       PostgreSQL       JWT / RBAC
-                                            ───────── back four: nothing gets through here ─────────
-                                        
-                                                 LangChain      LangGraph      RAG + Chroma
-                                                 ────────── midfield: the engine room ──────────
-                                        
-                                               React         Tailwind         Streamlit
-                                               ───── front three: what the crowd sees ─────
-                                        ```
+                                                                🥅
+                                                         Docker  ·  Git  ·  Azure
+                                                          ── the last line back ──
+                                    
+                                        Python        FastAPI       PostgreSQL       JWT / RBAC
+                                        ───────── back four: nothing gets through here ─────────
+                                    
+                                             LangChain      LangGraph      RAG + Chroma
+                                             ────────── midfield: the engine room ──────────
+                                    
+                                           React         Tailwind         Streamlit
+                                           ───── front three: what the crowd sees ─────
+                                    
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,js,html,css" /><br/>
